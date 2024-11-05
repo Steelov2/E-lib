@@ -1,0 +1,11 @@
+
+‡
+java:S1319 "qThe type of "categoryArrayList" should be an interface such as "List" rather than the implementation "ArrayList".(”Å›Ú
+s
+java:S1104 "]Make categoryArrayList a static final constant or non-public and provide accessors if needed.(”Å›Ú
+r
+java:S1104!"\Make viewPagerAdapter a static final constant or non-public and provide accessors if needed.(•‡Èç
+˜
+java:S1186…"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚¯±à
+A
+java:S1068“"+Remove this unused "context" private field.(êÝç

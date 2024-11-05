@@ -1,0 +1,27 @@
+
+o
+java:S1192¥"SDefine a constant instead of duplicating this literal "onActivityResult: " 3 times.(‹ËıËşÿÿÿÿ
+˜
+java:S1186‚"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô°¤¦
+W
+java:S1854t"<Remove this useless assignment to local variable "userType".(ß´ë­ûÿÿÿÿ
+M
+java:S1854s"7Remove this useless assignment to local variable "uid".(şíÔ
+X
+java:S1854r"=Remove this useless assignment to local variable "timestamp".(éÿÅÇøÿÿÿÿ
+T
+java:S1854o"9Remove this useless assignment to local variable "email".(ÅÄ—ıÿÿÿÿ
+E
+java:S1481o"*Remove this unused "email" local variable.(ÅÄ—ıÿÿÿÿ
+N
+java:S1117p"8Rename "name" which hides the field declared at line 59.(ÒÚ¥©
+I
+java:S1481r".Remove this unused "timestamp" local variable.(éÿÅÇøÿÿÿÿ
+>
+java:S1481s"(Remove this unused "uid" local variable.(şíÔ
+H
+java:S1481t"-Remove this unused "userType" local variable.(ß´ë­ûÿÿÿÿ
+T
+java:S1854œ"8Remove this useless assignment to local variable "data".(ÀÃûÿÿÿÿ
+E
+java:S1481œ")Remove this unused "data" local variable.(ÀÃûÿÿÿÿ
